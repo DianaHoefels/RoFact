@@ -60,3 +60,4 @@ claim_id	claim_text	speaker	date	verdict	topic	source_url
   howpublished={\url{https://github.com/dianahoefels/rofact}},
   note={Accessed: 2025-06-21}
 }
+---
