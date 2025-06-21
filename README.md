@@ -15,18 +15,35 @@ You are free to use, share, and adapt the data, as long as you give proper credi
 **Date**: 2025-06-21  
 **:octocat: GitHub Repository**: [https://github.com/dianahoefels/rofact](https://github.com/dianahoefels/rofact)
 
+**🤗**[Hugging Face Hub](https://huggingface.co/datasets/dianahoefels/rofact)
+
 ---
 
 ## Overview
 
 **RoFact** is a manually compiled dataset of Romanian political and public-domain claims labeled with expert fact-checking verdicts.  
-It is designed for research in **claim verification**, **fake news detection**, and **cross-lingual transfer learning**, especially for **low-resource languages**.
+It was collected from [factual.ro](https://www.factual.ro), the leading Romanian fact-checking platform run by Funky Citizens.  
+The current version (v1.0) includes **789 expert-annotated claims**, covering domains such as economy, healthcare, education, and governance.
+
+The dataset is split into:
+- **Training set**: 552 samples (70%)
+- **Validation set**: 118 samples (15%)
+- **Test set**: 119 samples (15%)
+
+🛑 **Note**: The test set is not publicly released.
+
+🔐 **Access to Test Set**
+
+To ensure fair evaluation and potential use in future shared tasks or hackathons, the **test split is not publicly released**.
+
+📩 If you are a researcher or developer interested in accessing the test set for academic or benchmarking purposes, please contact:
+
+**Diana Höfels**  
+📬 Email: diana.hoefels@gmail.com
 
 All claims were collected from [factual.ro](https://www.factual.ro), a trusted Romanian fact-checking platform run by Funky Citizens.  
 The dataset includes metadata such as speaker, verdict, topic, and source link.  
 The current version of RoFact (v1.0) includes all claims published on factual.ro up to **November 28, 2024**.
-
-Also available on 🤗 Hugging Face::  [Hugging Face Hub](https://huggingface.co/datasets/dianahoefels/rofact)
 
 ---
 
@@ -41,6 +58,20 @@ Also available on 🤗 Hugging Face::  [Hugging Face Hub](https://huggingface.co
 | `verdict`      | Fact-checking label (`Adevărat`, `Fals`, `Parțial Adevărat`, `Trunchiat`)   |
 | `topic`        | Topic category (e.g., economy, health, education)                           |
 | `source_url`   | Link to the original fact-checking article                                  |
+
+### Verdict Labels
+
+The `verdict` column includes the following expert-assigned categories:
+
+- **Adevărat** `True`
+- **Fals** `False`
+- **Imposibil de verificat**`Impossible to verify`
+- **Numai cu sprijin instituțional** `Only with institutional support`
+- **Parțial adevărat** `Partially true`
+- **Parțial fals** `Partially false`
+- **Trunchiat** `Truncated`
+
+(*See `data/stats.md` for label distribution and frequency breakdown.*)
 
 All entries have been cleaned and formatted for ease of use in machine learning pipelines.
 
