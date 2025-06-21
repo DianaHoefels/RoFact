@@ -76,7 +76,7 @@ The `verdict` column includes the following expert-assigned categories:
 - **Parțial fals** `Partially false`
 - **Trunchiat** `Truncated`
 
-(*See `data/stats.md` for label distribution and frequency breakdown.*)
+[See `data/stats.md` for label distribution and frequency breakdown.](./data/stats.md)
 
 All entries have been cleaned and formatted for ease of use in machine learning pipelines.
 
