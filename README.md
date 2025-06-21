@@ -1,4 +1,4 @@
-# RoFact
+
 # RoFact: A Romanian Fact-Checking Dataset
 
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
@@ -6,7 +6,7 @@
 
 **Author**: Diana Höfels  
 **Version**: 1.0  
-**Date**: 2024-06-21  
+**Date**: 2024-11-28  
 **Repository**: [https://github.com/dianahoefels/rofact](https://github.com/dianahoefels/rofact)
 
 ---
