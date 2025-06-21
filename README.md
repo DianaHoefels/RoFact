@@ -34,7 +34,12 @@ The dataset is split into:
 
 🔐 **Access to Test Set**
 
-To ensure fair evaluation and potential use in future shared tasks or hackathons, the **test split is not publicly released**.
+To support fair benchmarking and potential use in shared tasks, challenges, or hackathons, the **test split of RoFact is not publicly released**.
+
+Researchers, educators, and developers who wish to access the test set for academic or evaluation purposes are kindly invited to reach out via email. 
+
+Access may be granted upon request for non-commercial, research-aligned use.
+
 
 📩 If you are a researcher or developer interested in accessing the test set for academic or benchmarking purposes, please contact:
 
