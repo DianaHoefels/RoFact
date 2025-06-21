@@ -6,7 +6,7 @@
 
 **Author**: Diana Höfels  
 **Version**: 1.0  
-**Date**: 2024-11-28  
+**Date**: 2025-06-21  
 **Repository**: [https://github.com/dianahoefels/rofact](https://github.com/dianahoefels/rofact)
 
 ---
@@ -18,7 +18,7 @@ It is designed for research in **claim verification**, **fake news detection**, 
 
 All claims were collected from [factual.ro](https://www.factual.ro), a trusted Romanian fact-checking platform run by Funky Citizens.  
 The dataset includes metadata such as speaker, verdict, topic, and source link.
-
+The current version of RoFact (v1.0) includes all claims published on factual.ro up to November 28, 2024.
 ---
 
 ## Dataset Structure
