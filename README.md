@@ -4,9 +4,9 @@
 ## License
 
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Released under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
+The dataset is released under **Creative Commons Attribution 4.0 International (CC BY 4.0)**, with express permission from factual.ro.
+Please attribute both the dataset author (Diana Höfels) and the original source (Factual.ro by Funky Citizens) in any academic use or derived work.
 
 You are free to use, share, and adapt the data, as long as you give proper credit.
 
@@ -46,7 +46,7 @@ Access may be granted upon request for non-commercial, research-aligned use.
 **Diana Höfels**  
 📬 Email: diana.hoefels@gmail.com
 
-All claims were collected from [factual.ro](https://www.factual.ro), a trusted Romanian fact-checking platform run by Funky Citizens.  
+All claims were collected from [factual.ro](https://www.factual.ro), the Romanian fact-checking platform operated by Funky Citizens, and are used with permission for academic and research purposes.
 The dataset includes metadata such as speaker, verdict, topic, and source link.  
 The current version of RoFact (v1.0) includes all claims published on factual.ro up to **November 28, 2024**.
 
@@ -119,6 +119,11 @@ factual.ro (Funky Citizens).
 Dataset compiled and formatted by Diana Höfels (2024).
 
 ---
+
+## Permissions:
+
+Use of factual.ro content in this dataset has been authorized by the platform’s editorial team for the purposes of academic research and reproducibility.
+The dataset may not be used for commercial purposes or republished elsewhere without contacting both the dataset author and factual.ro.
 
 ## Acknowledgements
 
