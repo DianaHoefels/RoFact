@@ -15,7 +15,7 @@ You are free to use, share, and adapt the data, as long as you give proper credi
 **Date**: 2025-06-21  
 **:octocat: GitHub Repository**: [https://github.com/dianahoefels/rofact](https://github.com/dianahoefels/rofact)
 
-**🤗Hugging Face Repository**:  [Hugging Face Hub]([https://huggingface.co/datasets/dianahoefels/rofact](https://huggingface.co/datasets/Diana1701/RoFact/tree/main))
+**🤗Hugging Face Repository**:  [Hugging Face Hub]([https://huggingface.co/datasets/dianahoefels/rofact](https://huggingface.co/datasets/Diana1701/RoFact/tree/main)
 
 ---
 
