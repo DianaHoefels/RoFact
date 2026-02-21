@@ -3,9 +3,9 @@
 
 ## License
 
-[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-The dataset is released under **Creative Commons Attribution 4.0 International (CC BY 4.0)**, with express permission from factual.ro.
+
+The dataset is released under _add license_, with express permission from factual.ro.
 Please attribute both the dataset author (Diana Höfels) and the original source (Factual.ro by Funky Citizens) in any academic use or derived work.
 
 You are free to use, share, and adapt the data, as long as you give proper credit.
