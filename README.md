@@ -135,7 +135,7 @@ Thanks to factual.ro and Funky Citizens for their open data approach and ongoing
 
 For questions, suggestions, or collaborations:
 
-📬 Email: your.email@uni-tuebingen.de
+📬 Email: diana.hoefels@google.com
 
 :octocat: GitHub: [@dianahoefels](https://github.com/dianahoefels)
 
